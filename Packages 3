@@ -1,0 +1,187 @@
+Package: com.Pyhon.libPack
+Version: 3.0.9
+Architecture: iphoneos-arm
+Maintainer: cc
+Depends: python3.9 (>= 3.9.5)
+Filename: ./debs/libPython3Pack.deb
+Size: 3799210
+MD5sum: 5444400d6f1fcd8b0c604c2e69fc08c1
+SHA1: 42c0637c306bb209ca7646db686de2a3583807d8
+SHA256: 379bab8bd8a2063df34361963357713dbe65277a4f6eed6c53ae047f14afa417
+Section: Tweaks
+Priority: optional
+Description: Pyhon3PackageArm
+Author: gpw
+Name: Pyhon3PackageArm
+
+Package: com.cannathea.afc2d-arm64
+Version: 1.1.5-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 686
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/afc2kppless_1.1.5-1.deb
+Size: 14486
+MD5sum: c57f2a538b007e8f655ddcb3140804a1
+SHA1: 39ae9a6107ae67236ec5011530b08ef594248341
+SHA256: 488e4e86a97bdfcb12c396d14c9bc3e8666e810c5435023d7d8b530b5924e391
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Dev: cannathea
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.hd.ZZHide
+Version: 0.5.9
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.hd.ZZHide_0.5.9_iphoneos-arm.deb
+Size: 94184
+MD5sum: 17976371d8c92eb8291a9144a426009b
+SHA1: 00297931f7f9a0713c2c5e00fda7ec8f07f46bf8
+SHA256: 965d134a30954d39d027250cbda5dd6cfcf71a2478a0d04d50e9d5c5a77a81b6
+Section: Tweaks
+Priority: optional
+Author: handes
+Name: ZZHide
+
+Package: com.hd.libBxcq
+Version: 0.1-5.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.hd.libBxcq_0.1-5.3_iphoneos-arm.deb
+Size: 731402
+MD5sum: 6b12e9243a1f3d7ba6b88596afdddb3e
+SHA1: ae11ed553c25c2ad74afe7db50839886a031a256
+SHA256: 61237f2cdc9ccfbbdf82ef66e03dc73db9ac52c592d228eaba957465bd721202
+Section: Tweaks
+Priority: optional
+Description: api Tweaks
+Author: cc
+Name: libBxcq
+
+Package: com.hd.libMobileGuest
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.hd.libMobileGuest_0.1-1_iphoneos-arm.deb
+Size: 84102
+MD5sum: 82429e9aefecbd47253cec6d1fbcdf4d
+SHA1: a1759d5e90b3a18b36428c58b2f23572560210e7
+SHA256: 5d11dce93d191b49cf30f315b51ba04b436e281497b60f11064d77f7492de7f9
+Section: System
+Priority: optional
+Author: handes
+Name: libMobileGuest
+
+Package: com.hd.libPinterest
+Version: 0.35
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.hd.libPinterest_0.35_iphoneos-arm.deb
+Size: 244934
+MD5sum: 4abe5a6d98c7347915e3ddb8db11e75e
+SHA1: 8242cc3cbee9f1f9b2cd227858f12b8f3fbff9b8
+SHA256: 533f011e1b7e95821325d75cf3d75c81d00ef710e29e2bcfccadfb183f0e6544
+Section: Tweaks
+Priority: optional
+Author: handes
+Name: libPinterest
+
+Package: com.hd.libSpringBoard
+Version: 1.0.89
+Architecture: iphoneos-arm
+Maintainer: cc
+Depends: firmware (>= 13.0)
+Filename: ./debs/libphoneControl_89.deb
+Size: 1215086
+MD5sum: cf86692e67b2c875321c2e49cb901ba7
+SHA1: 55bd466bf8b9ddc100d70c722718c92eae727fca
+SHA256: a1e47b43da39571d4c38b8350d6fcf979d67501111b36b10b1600c37b6278b7d
+Section: Tweaks
+Priority: optional
+Description: iphone control
+Author: gpw
+Depiction: PhoneControl
+Dev: gpw
+Name: libSpringBoard
+
+Package: com.hd.libSpringBoard
+Version: 1.0.96
+Architecture: iphoneos-arm
+Maintainer: cc
+Depends: firmware (>= 13.0)
+Filename: ./debs/libphoneControl_96.deb
+Size: 1218438
+MD5sum: 293a6d0e5d4a0109b4263bee00cfa0ba
+SHA1: 80a4fb77c71613dcefc91f8f5bad3b2f2e2d64f9
+SHA256: f1fcabcd7e0c396777ecbd2c83a21cdf167410d21cfe894136272ef41fefebb8
+Section: Tweaks
+Priority: optional
+Description: iphone control
+Author: gpw
+Depiction: PhoneControl
+Dev: gpw
+Name: libSpringBoard
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-3+debug
+Architecture: iphoneos-arm
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 228
+Filename: ./debs/kr.xsf1re.vnodebypass_0.2.3_iphoneos-arm.deb
+Size: 24892
+MD5sum: dade8183ce60b38a4f1553bf34aa6573
+SHA1: 9cbc887edba37a518027d45f80a076dba51c44cd
+SHA256: 6ec49648482a9116f151719d5ed7d5390e00a1beece8af5e2c6032373f532e00
+Section: System
+Description: An expermental tool to hide jailbreak files for bypass detection.
+Tag: role::hacker
+Author: XsF1re
+Name: vnodebypass
+
+Package: net.angelxwind.appsyncunified
+Version: 98.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.6)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 58308
+MD5sum: cd493deb0ef48d69d3568831c4fa2ab4
+SHA1: a5f8e680308228a880756e7d6cca5b6be2fe234b
+SHA256: ab386bd21e590b79a26cff21bec9d3ee3c10e4f67d095c7c30e49b67ee5f9367
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
